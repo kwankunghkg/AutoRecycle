@@ -1,3 +1,11 @@
+BLOG_GitHub_AutoRecycle_ref_202207xx.txt  
+  https://github.com/kwankunghkg/AutoRecycle/edit/main/doc/reference.md  
+  
+last update : 20231203_0400(UTC+8)  
+prev update : 202208xx_xxxx(UTC+8)  
+  
+--------------------------------------------------  
+
 ---------------------------------------------      
   
   
@@ -35,6 +43,13 @@ Recycling Automatic Machine In Netherlands Europe Green Easily auto Recycle bott
   
 Recycling plastic bottles machine in Germany - automated systems  
   https://youtu.be/OMw6-D0fxEQ  
+  
+bottle refill cycles...  
+plastic : 20  
+glass : 50  
+Why 99 percent of bottles in Germany get returned / DW Planet A / Jun 25, 2021  #PlasticRecycling   
+https://youtu.be/YQ2GOtpYiqk  
+  
   
 .   
     
@@ -96,4 +111,4 @@ https://youtu.be/E30VP9_0M98
   
 
 ---------------------------------------------  
-End of File.
+End of File.  
