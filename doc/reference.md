@@ -1,12 +1,10 @@
-BLOG_GitHub_AutoRecycle_ref_202207xx.txt  
+BLOG_GitHub_AutoRecycle_ref_20220818.txt  
   https://github.com/kwankunghkg/AutoRecycle/edit/main/doc/reference.md  
   
 last update : 20231203_0400(UTC+8)  
-prev update : 202208xx_xxxx(UTC+8)  
+prev update : 20220818_xxxx(UTC+8)  
   
 --------------------------------------------------  
-
----------------------------------------------      
   
   
 project plastic/aluminium/glass recycling  
@@ -109,7 +107,7 @@ https://youtu.be/E30VP9_0M98
   
   
   
-  
+
 ---------------------------------------------  
   
   
